@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm What_help
 
-<!--
-**Whathelp233/Whathelp233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tring to be a  Full-stack Engineer （But actually a noob）
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)  
+![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python)  
+![ROS](https://img.shields.io/badge/ROS-Noetic-blue?logo=ros)  
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu)  
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whathelp233&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whathelp233&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Reach Out  
+📫 what.help2333@gmail.com
+🔗 [Some blog](https://whathelp233.github.io)
