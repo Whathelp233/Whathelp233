@@ -14,8 +14,7 @@
 ---
 
 ### 📊 GitHub Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whathelp233)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whathelp233&layout=compact&theme=tokyonight)
+[![Whathelp233's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Whathelp233&theme=tokyo-night)](https://github.com/Whathelp233)
 
 ---
 
